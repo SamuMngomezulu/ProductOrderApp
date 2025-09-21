@@ -1,0 +1,46 @@
+# =============================
+# ASP.NET Core / .NET files
+# =============================
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.log
+*.vspscc
+appsettings*.json
+
+# =============================
+# Visual Studio Code / IDE
+# =============================
+.vscode/
+.idea/
+*.code-workspace
+
+# =============================
+# Node / React / frontend files
+# =============================
+node_modules/
+build/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# =============================
+# OS / System files
+# =============================
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
